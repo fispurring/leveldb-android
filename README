@@ -6,6 +6,8 @@ by xyhl515
 
 ========================
 
+Following text is leveldb official README:
+
 Android NDK port for LevelDB.
 
 This git branch contains a make system to build LevelDB
